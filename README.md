@@ -15,6 +15,8 @@ Localization: Supports multiple currencies and units of measurement.
 Technologies Used 🛠️
 <br>
 Frontend: HTML, CSS, JavaScript
+<br>
 Backend: PHP
+<br>
 Database: MySQL
   
